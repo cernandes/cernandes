@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://camo.githubusercontent.com/c6a0a698110b0f0a16e89a0274cf2a50529307ada4ed3d2ae0864058daa81bbd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d676c617563696138362673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c696e655f6865696768743d3237" data-canonical-src="https://github-readme-stats.vercel.app/api?username=cernandes86&amp;show_icons=true&amp;theme=tokyonight&amp;line_height=27" style="max-width:100%;">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&hide_border=true)
 <!--
 **cernandes/cernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
