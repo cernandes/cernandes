@@ -1,5 +1,8 @@
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&hide_border=true;theme=tokyonight&amp;line_height=27")
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cernandes&hide=css,java,html&theme=tokyonight">
+</p>
 <!--
 **cernandes/cernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
