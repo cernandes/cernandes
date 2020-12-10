@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&hide_border=true;theme=tokyonight&amp;line_height=27")
 <!--
 **cernandes/cernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
