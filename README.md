@@ -1,8 +1,10 @@
-### Hi there 👋
+## ⭐ GitHub Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cernandes&hide=css,java,html&theme=tokyonight">
 </p>
+## 🎯 Let's Keep in Touch and Follow me 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva/)
 <!--
 **cernandes/cernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
