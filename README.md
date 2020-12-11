@@ -24,8 +24,8 @@ Welcome to my github page! I'm an analysis and systems development student, in l
 
 ## ⭐ GitHub Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cernandes&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&theme=default&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cernandes&theme=default">
 </p>
 
 ## 🎯 Let's Keep in Touch and Follow me 
