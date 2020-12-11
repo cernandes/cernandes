@@ -3,7 +3,7 @@
 
 ## 👋 Hi I'm Claudio!
 
-I'm a student of analysis and systems development. I'm love helping and making contributions to Open Source projects in **[GitHub](https://github.com/cernandes)**. 
+Welcome to my github page! I'm an analysis and systems development student, in love with technology, Open Source projects and programming.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
