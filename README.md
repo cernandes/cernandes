@@ -1,3 +1,12 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=cernandes.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/cernandes?style=social)
+
+## Bio - Hi, Coders! 👋
+
+I'm a student of analysis and systems development. I'm love helping and making contributions to Open Source projects in **[GitHub](https://github.com/cernandes)**. 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ## 💻 Technologies & Tools
 
 <p align="center">
