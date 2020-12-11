@@ -30,8 +30,9 @@ I'm a student of analysis and systems development. I'm love helping and making c
 
 ## 🎯 Let's Keep in Touch and Follow me 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva/)
-
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://www.github.com/cernandes)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cernandes.silva@gmail.com)
 
 
 
