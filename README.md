@@ -5,13 +5,12 @@
 
 Welcome to my github page! I'm an analysis and systems development student, in love with technology, open source projects and programming.
 
-I dedicate my free time to study web development and object-oriented programming.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+I dedicate my free time to study web development and object-oriented programming.
 I'm in the beginning of my technologies road map, always studying something new at a continuos learning process to reach my goals.
 
 Contributions are welcome, feel free to contact me or colaborate at my projects.
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## 💻 Technologies & Tools
 
