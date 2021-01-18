@@ -1,3 +1,7 @@
+
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cernandes)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva)
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cernandes.silva@gmail.com)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cernandes.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/cernandes?style=social)
 
@@ -30,14 +34,6 @@ Contributions are welcome, feel free to contact me or colaborate at my projects.
   <img src = "https://github-readme-stats.vercel.app/api?username=cernandes&show_icons=true&theme=default&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cernandes&hide=css,html&theme=dafault&line_height=27">
 </p>
-
-## 🎯 Let's Keep in Touch and Follow me 
-
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://www.github.com/cernandes)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cernandes.silva@gmail.com)
-
-
 
 <!--
 **cernandes/cernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
