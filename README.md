@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Welcome to my github page! I'm an analysis and systems development student, in love with technology, open source projects and programming.
+Welcome to my github page! I'm a System Analysis and Development Student, in love with technology, open source projects and programming.
 
 I dedicate my free time to study web development and object-oriented programming.
 I'm in the beginning of my technologies road map, always studying something new at a continuos learning process to reach my goals.
